@@ -1,0 +1,6 @@
+Ariq Hibatullah,23031554064,1
+Dea Kurniawati,23031554001,2
+Yashifa Sastia,23031554036,3
+Khais Dhovi,23031554167,4
+Friza Chintia,23031554188,5
+a,2,a
